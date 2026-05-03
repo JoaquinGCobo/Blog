@@ -1,0 +1,14 @@
+<article class="article-card podcast-card">
+  {{ with .Params.image }}
+    <a class="article-card-image-link" href="{{ $.RelPermalink }}" aria-label="Abrir {{ $.Title }}">
+      <img class="article-card-image" src="{{ . | relURL }}" alt="Imagen del episodio {{ $.Title }}" loading="lazy">
+    </a>
+  {{ end }}
+  <p class="eyebrow">Podcast{{ with .Params.episode }} · Ep. {{ . }}{{ end }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Description | default (.Summary | plainify | truncate 160) }}</p>
+  <div class="card-meta">
+    {{ with .Params.duration }}<span>{{ . }}</span>{{ end }}
+    <span>{{ partial "date-display.html" . }}</span>
+  </div>
+</article>

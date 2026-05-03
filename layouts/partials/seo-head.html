@@ -1,0 +1,63 @@
+{{ $pageTitle := partial "localized-title.html" . }}
+{{ $title := cond .IsHome site.Title (printf "%s | %s" $pageTitle site.Title) }}
+{{ $description := .Description | default .Summary | plainify | default site.Params.description }}
+{{ $author := .Params.author | default site.Params.author }}
+{{ $base := getenv "HUGO_BASEURL" | default site.BaseURL }}
+{{ $canonical := .Permalink }}
+{{ $ogImagePath := .Params.image | default site.Params.defaultOgImage }}
+{{ $ogImage := cond (hasPrefix $ogImagePath "http") $ogImagePath (printf "%s%s" (strings.TrimRight "/" $base) $ogImagePath) }}
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $description }}">
+<meta name="author" content="{{ $author }}">
+<link rel="canonical" href="{{ $canonical }}">
+<link rel="icon" href="{{ "images/og-default.svg" | relURL }}" type="image/svg+xml">
+<link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<script>
+  (() => {
+    const key = "historica-theme";
+    const stored = localStorage.getItem(key);
+    const theme = stored || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+    document.documentElement.dataset.theme = theme;
+  })();
+</script>
+
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $description }}">
+<meta property="og:image" content="{{ $ogImage }}">
+<meta property="og:url" content="{{ $canonical }}">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
+<meta property="og:site_name" content="{{ site.Title }}">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+<meta name="twitter:description" content="{{ $description }}">
+<meta name="twitter:image" content="{{ $ogImage }}">
+{{ with site.Params.twitterHandle }}<meta name="twitter:site" content="{{ . }}">{{ end }}
+
+{{ if .IsPage }}
+  {{ $schema := dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" $pageTitle
+    "description" $description
+    "author" (dict "@type" "Person" "name" $author)
+    "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+    "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+    "mainEntityOfPage" $canonical
+    "image" $ogImage
+  }}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ else }}
+  {{ $schema := dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "name" site.Title
+    "url" $base
+    "description" site.Params.description
+  }}
+  <script type="application/ld+json">{{ $schema | jsonify | safeJS }}</script>
+{{ end }}

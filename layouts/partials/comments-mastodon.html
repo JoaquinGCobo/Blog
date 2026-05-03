@@ -1,0 +1,38 @@
+{{ $instance := site.Params.mastodonInstance }}
+{{ $statusID := .Params.mastodon_id }}
+{{ $profileURL := "" }}
+{{ if and $instance site.Params.mastodonUser }}
+  {{ $profileURL = printf "https://%s/@%s" $instance site.Params.mastodonUser }}
+{{ end }}
+{{ if and $instance $statusID }}
+  {{ $statusURL := cond (ne $profileURL "") (printf "%s/%s" $profileURL $statusID) (printf "https://%s/web/statuses/%s" $instance $statusID) }}
+  <section
+    class="comments-section mastodon-comments"
+    id="comments"
+    data-instance="{{ $instance }}"
+    data-status-id="{{ $statusID }}"
+    data-status-url="{{ $statusURL }}">
+    <div class="comments-header">
+      <div>
+        <p class="eyebrow">Conversacion</p>
+        <h2>Comentarios en Mastodon</h2>
+      </div>
+      <a class="button-link" href="{{ $statusURL }}" target="_blank" rel="noopener noreferrer">Responder en Mastodon</a>
+    </div>
+    <div class="comments-state" data-comments-state>Cargando comentarios cuando llegues a esta sección...</div>
+    <div class="comments-list" data-comments-list></div>
+  </section>
+{{ else }}
+  <section class="comments-section">
+    <div class="comments-header">
+      <div>
+        <p class="eyebrow">Conversacion</p>
+        <h2>Comentarios en Mastodon</h2>
+      </div>
+      {{ with $profileURL }}
+        <a class="button-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">Perfil de Mastodon</a>
+      {{ end }}
+    </div>
+    <p class="comments-state">Para comentar, responde a este artículo en Mastodon.</p>
+  </section>
+{{ end }}

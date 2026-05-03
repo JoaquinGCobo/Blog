@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+  <defs>
+    <pattern id="dashPattern" x="0" y="0" width="184" height="84" patternUnits="userSpaceOnUse">
+      <rect width="184" height="84" fill="#f7fafc"/>
+      <rect x="0" y="16" width="74" height="18" rx="9" fill="#dfeff9"/>
+      <rect x="92" y="16" width="54" height="18" rx="9" fill="#dfeff9"/>
+      <circle cx="170" cy="25" r="9" fill="#dfeff9"/>
+      <rect x="18" y="52" width="104" height="16" rx="8" fill="#dfeff9"/>
+      <rect x="138" y="52" width="30" height="16" rx="8" fill="#dfeff9"/>
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#6a11cb" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="1600" fill="url(#dashPattern)"/>
+
+  <g opacity="0.95">
+    <circle cx="320" cy="740" r="12" fill="#33a8ff"/>
+    <circle cx="280" cy="690" r="16" fill="#33a8ff"/>
+    <circle cx="380" cy="700" r="9" fill="#33a8ff"/>
+    <circle cx="1260" cy="760" r="14" fill="#33a8ff"/>
+    <circle cx="1320" cy="700" r="10" fill="#33a8ff"/>
+    <circle cx="1180" cy="720" r="8" fill="#33a8ff"/>
+    <circle cx="430" cy="1080" r="10" fill="#33a8ff"/>
+    <circle cx="360" cy="1140" r="14" fill="#33a8ff"/>
+  </g>
+
+  <g fill="none" stroke="#33a8ff" stroke-linecap="round" opacity="0.85">
+    <path d="M220 650c40 28 60 44 96 0" stroke-width="5"/>
+    <path d="M250 710c54 36 94 32 142-8" stroke-width="4"/>
+    <path d="M1160 704c46 26 74 28 120-10" stroke-width="5"/>
+    <path d="M1188 760c52 22 94 18 132-14" stroke-width="4"/>
+    <path d="M310 1010c46 30 70 42 122 4" stroke-width="5"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <text x="800" y="520" text-anchor="middle" fill="#5b00c8" font-family="Arial Black, Arial, sans-serif" font-size="190" transform="rotate(-6 800 520)">Travesias</text>
+    <text x="800" y="700" text-anchor="middle" fill="#ffbf57" font-family="Trebuchet MS, Arial, sans-serif" font-weight="700" font-size="150">HISTORIAS</text>
+  </g>
+
+  <g transform="translate(0 40)" fill="#111">
+    <path d="M783 835c34 0 60 8 77 25 12 12 19 28 21 48l4 36 90 27 24 44-51-17-7 146h-20l-11-140-93-30-95 30-11 140h-20l-7-146-51 17 24-44 90-27 4-36c2-20 9-36 21-48 17-17 43-25 77-25Z"/>
+    <path d="M685 975l98-29 98 29-9-27c-10-31-38-47-89-47s-79 16-89 47l-9 27Z"/>
+    <path d="M615 1045c51-53 101-93 150-118 7-4 15 6 9 12-30 31-58 67-83 110l-76-4Zm336 0c-51-53-101-93-150-118-7-4-15 6-9 12 30 31 58 67 83 110l76-4Z"/>
+    <path d="M756 764h27v112h-27Zm54 0h27v112h-27Z"/>
+    <path d="M700 820c58-20 108-20 166 0-55-52-110-52-166 0Z"/>
+  </g>
+
+  <g transform="translate(800 1310)">
+    <path d="M-250 0c60-40 112-58 160-54 34 3 57 16 90 28 33-12 56-25 90-28 48-4 100 14 160 54l-28 70c-60-20-139-33-222-33s-162 13-222 33L-250 0Z" fill="#ffbf57" stroke="#d08b1d" stroke-width="4"/>
+    <text x="0" y="32" text-anchor="middle" fill="#111" font-family="Comic Sans MS, Trebuchet MS, cursive" font-size="72">El Podcast</text>
+  </g>
+</svg>

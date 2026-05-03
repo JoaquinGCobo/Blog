@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#faf5ea"/>
+  <rect x="70" y="70" width="1460" height="760" rx="38" fill="#f0e5cf"/>
+  <path d="M180 610c130-60 230-170 360-170s210 110 340 110 220-120 360-120 200 80 220 160" fill="none" stroke="#8b6914" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="360" cy="440" r="22" fill="#8b6914"/>
+  <circle cx="700" cy="520" r="22" fill="#8b6914"/>
+  <circle cx="1070" cy="430" r="22" fill="#8b6914"/>
+  <circle cx="1320" cy="560" r="22" fill="#8b6914"/>
+  <text x="150" y="180" fill="#8b6914" font-family="Georgia, serif" font-size="42" letter-spacing="4">INTERCAMBIOS</text>
+  <text x="150" y="270" fill="#1a1a1a" font-family="Georgia, serif" font-size="94">La ruta de la seda</text>
+</svg>

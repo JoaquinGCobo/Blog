@@ -1,0 +1,49 @@
+{{ define "main" }}
+  {{ $paginator := .Paginate .Pages }}
+  {{ $pageTitle := partial "localized-title.html" . }}
+  <section class="shell listing-section">
+    <header class="section-heading">
+      <p class="eyebrow">
+        {{ if .IsSection }}
+          {{ if eq .Section "posts" }}Archivo de artículos{{ else if eq .Section "podcast" }}Archivo de podcast{{ else }}Sección{{ end }}
+        {{ else if .Data.Singular }}
+          {{ if eq .Data.Plural "categories" }}Categoría{{ else if eq .Data.Plural "tags" }}Etiqueta{{ else if eq .Data.Plural "series" }}Serie{{ else }}Archivo{{ end }}
+        {{ else }}
+          Archivo
+        {{ end }}
+      </p>
+      <h1>{{ $pageTitle }}</h1>
+      {{ with .Content }}
+        <div class="section-copy">{{ . }}</div>
+      {{ else }}
+        <p>
+          {{ if .IsSection }}
+            {{ if eq .Section "posts" }}Explora todos los artículos publicados en el sitio.{{ else if eq .Section "podcast" }}Consulta todos los episodios, notas y materiales del podcast.{{ else }}Explora el contenido relacionado en esta sección.{{ end }}
+          {{ else if eq .Data.Plural "categories" }}
+            Explora el contenido agrupado por categorías temáticas.
+          {{ else if eq .Data.Plural "tags" }}
+            Explora el contenido agrupado por etiquetas.
+          {{ else if eq .Data.Plural "series" }}
+            Explora el contenido agrupado por series.
+          {{ else }}
+            Explora los artículos relacionados en este archivo temático.
+          {{ end }}
+        </p>
+      {{ end }}
+    </header>
+
+    <div class="article-grid">
+      {{ $isTaxonomyRoot := .Data.Terms }}
+      {{ range $paginator.Pages }}
+        {{ if $isTaxonomyRoot }}
+          {{ partial "term-card.html" . }}
+        {{ else if eq .Section "podcast" }}
+          {{ partial "podcast-card.html" . }}
+        {{ else }}
+          {{ partial "article-card.html" . }}
+        {{ end }}
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

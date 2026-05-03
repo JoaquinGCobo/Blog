@@ -1,0 +1,51 @@
+baseURL = "https://historia.example.com/"
+defaultContentLanguage = "es"
+title = "Historiador Digital"
+enableRobotsTXT = true
+
+[languages]
+  [languages.es]
+    label = "Español"
+    locale = "es-ES"
+    weight = 1
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.highlight]
+    style = "monokailight"
+    lineNos = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[params]
+  author = "Equipo de Historia en Perspectiva"
+  description = "Un blog de historia con contexto, análisis y lecturas de larga duración."
+  mastodonInstance = "mastodon.social"
+  mastodonUser = "historia"
+  twitterHandle = "@historiapersp"
+  themeName = "historica"
+  defaultOgImage = "/images/og-default.svg"
+  podcastTitle = "Podcast de Historia en Perspectiva"
+  podcastDescription = "Notas de episodio, bibliografía y enlaces para ampliar cada conversación."
+  podcastCover = "/images/podcast/travesias-historias-cover.svg"
+
+  [params.social]
+    mastodon = "https://mastodon.social/@historia"
+    x = "https://x.com/historiapersp"
+    github = "https://github.com/historiaperspectiva"
+    rss = "/index.xml"

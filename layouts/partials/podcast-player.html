@@ -1,0 +1,36 @@
+{{ $cover := site.Params.podcastCover }}
+<section class="podcast-panel{{ if $cover }} podcast-panel--with-cover{{ end }}"{{ with $cover }} style="--podcast-cover: url('{{ . | relURL }}')"{{ end }}>
+  <div class="podcast-panel-header">
+    <div>
+      <p class="eyebrow">Escuchar</p>
+      <h2>{{ site.Params.podcastTitle }}</h2>
+    </div>
+    {{ with .Params.podcast_platform_url }}
+      <a class="button-link" href="{{ . }}" target="_blank" rel="noopener noreferrer">Abrir en RSS.com</a>
+    {{ end }}
+  </div>
+
+  <div class="podcast-panel-body">
+    {{ with $cover }}
+      <figure class="podcast-cover-art">
+        <img src="{{ . | relURL }}" alt="Portada del podcast {{ site.Params.podcastTitle }}">
+      </figure>
+    {{ end }}
+
+    <div class="podcast-player-stack">
+      {{ with .Params.podcast_audio }}
+        <audio controls preload="none" class="podcast-player">
+          <source src="{{ . }}" type="audio/mpeg">
+          Tu navegador no soporta audio HTML5.
+        </audio>
+      {{ end }}
+
+      <div class="podcast-meta-grid">
+        {{ with .Params.episode }}<div><span class="podcast-meta-label">Episodio</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.season }}<div><span class="podcast-meta-label">Temporada</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.duration }}<div><span class="podcast-meta-label">Duración</span><strong>{{ . }}</strong></div>{{ end }}
+        {{ with .Params.podcast_platform_url }}<div><span class="podcast-meta-label">Enlace</span><strong><a href="{{ . }}" target="_blank" rel="noopener noreferrer">Página del episodio</a></strong></div>{{ end }}
+      </div>
+    </div>
+  </div>
+</section>

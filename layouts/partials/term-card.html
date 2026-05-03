@@ -1,0 +1,8 @@
+<article class="article-card term-card">
+  <p class="eyebrow">{{ if eq .Data.Plural "categories" }}Categoría{{ else if eq .Data.Plural "tags" }}Etiqueta{{ else if eq .Data.Plural "series" }}Serie{{ else }}Archivo{{ end }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>
+    {{ $count := len .RegularPages }}
+    {{ if eq $count 1 }}1 contenido asociado.{{ else }}{{ $count }} contenidos asociados.{{ end }}
+  </p>
+</article>

@@ -1,0 +1,17 @@
+<footer class="site-footer">
+  <div class="shell footer-inner">
+    <div>
+      <p class="footer-title">{{ site.Title }}</p>
+    </div>
+    <div class="footer-links">
+      {{ with site.Params.social.mastodon }}
+        <a href="{{ . }}" aria-label="Mastodon" title="Mastodon">
+          <i class="fa-brands fa-mastodon" aria-hidden="true"></i>
+        </a>
+      {{ end }}
+      <a href="{{ "index.xml" | relURL }}" aria-label="RSS" title="RSS">
+        <i class="fa-solid fa-rss" aria-hidden="true"></i>
+      </a>
+    </div>
+  </div>
+</footer>

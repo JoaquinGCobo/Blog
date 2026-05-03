@@ -1,0 +1,31 @@
+{{ define "main" }}
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  {{ $podcasts := first 3 (where site.RegularPages "Section" "podcast") }}
+  {{ $paginator := .Paginate $posts }}
+  {{ if gt (len $podcasts) 0 }}
+    <section class="shell listing-section">
+      <div class="section-heading">
+      <h2>Últimos episodios</h2>
+        <p>{{ site.Params.podcastDescription }}</p>
+      </div>
+      <div class="article-grid">
+        {{ range $podcasts }}
+          {{ partial "podcast-card.html" . }}
+        {{ end }}
+      </div>
+    </section>
+  {{ end }}
+
+  <section class="shell listing-section">
+    <div class="section-heading">
+      <h2>Artículos recientes</h2>
+      <p>Ensayos, cronologías y conexiones para leer el pasado con más perspectiva.</p>
+    </div>
+    <div class="article-grid">
+      {{ range $paginator.Pages }}
+        {{ partial "article-card.html" . }}
+      {{ end }}
+    </div>
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}

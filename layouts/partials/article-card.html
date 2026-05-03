@@ -1,0 +1,14 @@
+<article class="article-card">
+  {{ with .Params.image }}
+    <a class="article-card-image-link" href="{{ $.RelPermalink }}" aria-label="Abrir {{ $.Title }}">
+      <img class="article-card-image" src="{{ . | relURL }}" alt="Imagen de cabecera para {{ $.Title }}" loading="lazy">
+    </a>
+  {{ end }}
+  <p class="eyebrow">{{ partial "date-display.html" . }}</p>
+  <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+  <p>{{ .Description | default (.Summary | plainify | truncate 160) }}</p>
+  <div class="card-meta">
+    {{ with index .Params.categories 0 }}<span>{{ . }}</span>{{ end }}
+    <span>{{ .ReadingTime }} min</span>
+  </div>
+</article>

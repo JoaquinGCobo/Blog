@@ -1,0 +1,14 @@
+{{- if .IsHome -}}
+  {{- site.Title -}}
+{{- else if eq .Kind "section" -}}
+  {{- if eq .Section "posts" -}}Artículos
+  {{- else if eq .Section "podcast" -}}Podcast
+  {{- else -}}{{ .Title }}{{- end -}}
+{{- else if eq .Kind "taxonomy" -}}
+  {{- if eq .Data.Plural "categories" -}}Categorías
+  {{- else if eq .Data.Plural "tags" -}}Etiquetas
+  {{- else if eq .Data.Plural "series" -}}Series
+  {{- else -}}{{ .Title }}{{- end -}}
+{{- else -}}
+  {{- .Title -}}
+{{- end -}}

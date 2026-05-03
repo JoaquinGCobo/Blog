@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <rect width="1600" height="900" fill="#f6f0e4"/>
+  <rect x="80" y="80" width="1440" height="740" rx="40" fill="#e9dcc2"/>
+  <circle cx="1240" cy="260" r="150" fill="#8b6914" opacity="0.12"/>
+  <rect x="220" y="290" width="120" height="320" rx="60" fill="#8b6914"/>
+  <rect x="380" y="210" width="120" height="480" rx="60" fill="#8b6914" opacity="0.8"/>
+  <rect x="540" y="340" width="120" height="220" rx="60" fill="#8b6914" opacity="0.6"/>
+  <path d="M760 610c120-180 240-270 360-270s170 60 200 180" fill="none" stroke="#1a1a1a" stroke-width="12" opacity="0.18"/>
+  <text x="150" y="180" fill="#8b6914" font-family="Georgia, serif" font-size="42" letter-spacing="4">PODCAST</text>
+  <text x="150" y="270" fill="#1a1a1a" font-family="Georgia, serif" font-size="84">Episodio 01: La crisis del siglo III</text>
+</svg>

@@ -1,0 +1,55 @@
+{{ define "main" }}
+  {{ $showToc := .Params.toc }}
+  <article class="shell article-layout{{ if not $showToc }} article-layout--full{{ end }}">
+    {{ if $showToc }}
+      <aside class="toc-desktop">
+        <div class="toc-panel">
+          <p class="toc-title">Índice</p>
+          {{ .TableOfContents }}
+        </div>
+      </aside>
+    {{ end }}
+
+    <div class="article-column">
+      <header class="article-header">
+        <p class="eyebrow">{{ with index .Params.categories 0 }}{{ . }}{{ else }}Historia{{ end }}</p>
+        <h1>{{ .Title }}</h1>
+        <div class="article-meta">
+          <span>{{ partial "date-display.html" . }}</span>
+          <span>{{ .ReadingTime }} min de lectura</span>
+          <span>{{ .Params.author | default site.Params.author }}</span>
+        </div>
+        {{ with .Description }}
+          <p class="article-description">{{ . }}</p>
+        {{ end }}
+      </header>
+
+      {{ if $showToc }}
+        <section class="toc-mobile" data-toc-mobile>
+          <button class="toc-toggle" type="button" data-toc-toggle aria-expanded="false" aria-controls="mobile-toc-panel">
+            Ver índice
+          </button>
+          <div id="mobile-toc-panel" class="toc-mobile-panel" hidden>
+            {{ .TableOfContents }}
+          </div>
+        </section>
+      {{ end }}
+
+      <div class="article-content">
+        {{ .Content }}
+      </div>
+
+      <footer class="article-footer">
+        {{ with .Params.tags }}
+          <div class="tag-list">
+            {{ range . }}
+              <a href="{{ (printf "/tags/%s/" (. | urlize)) | relURL }}">#{{ . }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </footer>
+
+      {{ partial "comments-mastodon.html" . }}
+    </div>
+  </article>
+{{ end }}

@@ -1,0 +1,37 @@
+{{ define "main" }}
+  <article class="shell article-layout article-layout--full">
+    <div class="article-column">
+      <header class="article-header">
+        <p class="eyebrow">Podcast</p>
+        <h1>{{ .Title }}</h1>
+        <div class="article-meta">
+          {{ with .Params.episode }}<span>Episodio {{ . }}</span>{{ end }}
+          {{ with .Params.season }}<span>Temporada {{ . }}</span>{{ end }}
+          {{ with .Params.duration }}<span>{{ . }}</span>{{ end }}
+          <span>{{ partial "date-display.html" . }}</span>
+        </div>
+        {{ with .Description }}
+          <p class="article-description">{{ . }}</p>
+        {{ end }}
+      </header>
+
+      {{ partial "podcast-player.html" . }}
+
+      <div class="article-content">
+        {{ .Content }}
+      </div>
+
+      <footer class="article-footer">
+        {{ with .Params.tags }}
+          <div class="tag-list">
+            {{ range . }}
+              <a href="{{ (printf "/tags/%s/" (. | urlize)) | relURL }}">#{{ . }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </footer>
+
+      {{ partial "comments-mastodon.html" . }}
+    </div>
+  </article>
+{{ end }}
