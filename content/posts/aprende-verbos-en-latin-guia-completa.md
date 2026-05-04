@@ -6,7 +6,7 @@ date: 2024-08-29T07:13:31Z
 image: "/images/image-placeholder.png"
 categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
-tags: ["verbos en latín", "conjugación latina", "gramática latina", "aprender latín", "infinitivo en latín", "vocabulario en latín"]
+tags: ["verbos en latín", "conjugación latina", "gramática latina", "aprender latín", "infinitivo en latín", "vocabulario en latín", "Curso de Latín"]
 draft: false
 ---
 

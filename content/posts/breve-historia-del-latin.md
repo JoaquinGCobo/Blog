@@ -6,7 +6,7 @@ date: 2023-03-06
 image: "/images/image-placeholder.png"
 categories: ["Historia", "Lenguas"]
 author: "Joaquín García Cobo"
-tags: ["latín", "historia", "lenguas romances", "imperio romano"]
+tags: ["latín", "historia", "lenguas romances", "imperio romano", "Curso de Latín"]
 draft: false
 ---
 
