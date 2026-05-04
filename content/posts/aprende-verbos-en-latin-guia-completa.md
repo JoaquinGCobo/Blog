@@ -8,6 +8,8 @@ categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
 tags: ["verbos en latín", "conjugación latina", "gramática latina", "aprender latín", "infinitivo en latín", "vocabulario en latín", "Curso de Latín"]
 draft: false
+series: ["Curso de Latín"]
+toc: true
 ---
 
 Si quieres **dominar el latín**, es clave entender su gramática. Esta guía te muestra cómo manejar los verbos latinos. Son fundamentales en la lengua.
