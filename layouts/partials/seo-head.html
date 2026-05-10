@@ -13,7 +13,9 @@
 <meta name="author" content="{{ $author }}">
 {{ with .Params.robots }}<meta name="robots" content="{{ . }}">{{ end }}
 <link rel="canonical" href="{{ $canonical }}">
-<link rel="icon" href="{{ "images/og-default.svg" | relURL }}" type="image/svg+xml">
+<link rel="icon" href="{{ "favicon.ico" | relURL }}" sizes="any">
+<link rel="icon" href="{{ "images/favicon.svg" | relURL }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
 <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "index.xml" | absURL }}">
 <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
 <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/js/all.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>

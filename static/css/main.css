@@ -163,6 +163,54 @@ h4 {
   transition: color 180ms ease, opacity 180ms ease, transform 180ms ease;
 }
 
+.site-nav a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+}
+
+.nav-group {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.nav-group-trigger::after {
+  content: "▾";
+  margin-left: 0.35rem;
+  font-size: 0.7rem;
+}
+
+.nav-submenu {
+  position: absolute;
+  top: calc(100% + 0.65rem);
+  left: 0;
+  min-width: 16rem;
+  display: none;
+  padding: 0.6rem;
+  background: color-mix(in srgb, var(--surface) 96%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 0.9rem;
+  box-shadow: var(--shadow);
+  z-index: 20;
+}
+
+.nav-submenu a {
+  display: block;
+  padding: 0.45rem 0.55rem;
+  border-radius: 0.55rem;
+}
+
+.nav-submenu a:hover,
+.nav-submenu a:focus-visible {
+  background: var(--accent-soft);
+}
+
+.nav-group:hover .nav-submenu,
+.nav-group:focus-within .nav-submenu {
+  display: block;
+}
+
 .site-nav a:hover,
 .site-nav a:focus-visible,
 .theme-toggle:hover,

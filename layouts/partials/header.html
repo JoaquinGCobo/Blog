@@ -1,4 +1,5 @@
 <header class="site-header">
+  {{ $civilizaciones := index site.Taxonomies.categories "civilizaciones" }}
   <div class="shell header-inner">
     <a class="brand" href="{{ "/" | relURL }}">
       <span class="brand-mark">H</span>
@@ -8,10 +9,20 @@
     </a>
 
     <nav class="site-nav" aria-label="Principal">
-      <a href="{{ "/" | relURL }}">Inicio</a>
-      <a href="{{ "/podcast/" | relURL }}">Podcast</a>
-      <a href="{{ "/categories/" | relURL }}">Categorías</a>
-      <a href="{{ "/categories/latín/" | relURL }}">Curso de Latín</a>
+      <a href="{{ "/" | relURL }}"><i class="fa-solid fa-house" aria-hidden="true"></i><span>Inicio</span></a>
+      <a href="{{ "/podcast/" | relURL }}"><i class="fa-solid fa-microphone-lines" aria-hidden="true"></i><span>Podcast</span></a>
+      <div class="nav-group">
+        <a class="nav-group-trigger" href="{{ "/categories/civilizaciones/" | relURL }}"><i class="fa-solid fa-landmark" aria-hidden="true"></i><span>Civilizaciones</span></a>
+        {{ with $civilizaciones }}
+          <div class="nav-submenu" aria-label="Civilizaciones">
+            {{ range .Pages.ByTitle }}
+              <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+      <a href="{{ "/categories/" | relURL }}"><i class="fa-solid fa-folder-tree" aria-hidden="true"></i><span>Categorías</span></a>
+      <a href="{{ "/categories/latín/" | relURL }}"><i class="fa-solid fa-book-open-reader" aria-hidden="true"></i><span>Curso de Latín</span></a>
       <button class="theme-toggle" type="button" data-theme-toggle aria-label="Activar modo oscuro" aria-pressed="false" title="Cambiar tema">
         <span class="theme-toggle-icon" aria-hidden="true" data-theme-icon>
           <svg viewBox="0 0 24 24" focusable="false">

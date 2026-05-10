@@ -4,7 +4,7 @@ meta_title: "Guía Completa del Antiguo Egipto - Historia, Cultura y Misterios d
 description: "Explora la fascinante civilización del Antiguo Egipto: desde las pirámides hasta los faraones, descubre su historia, religión, arte y legado que perdura hasta hoy."
 date: 2023-02-24T09:00:00Z
 image: "/images/image-placeholder.png"
-categories: ["Historia", "Antiguo Egipto"]
+categories: ["Civilizaciones", "Antiguo Egipto"]
 author: "Joaquín García Cobo"
 tags: ["antiguo egipto", "faraones", "nilo", "religión egipcia", "civilización egipcia"]
 draft: false
