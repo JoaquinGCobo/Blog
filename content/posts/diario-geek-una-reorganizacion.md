@@ -3,7 +3,7 @@ title: "Diario Geek: nuevos proyectos y una reorganización"
 meta_title: "Diario Geek: Nueva Web de Tecnología y Reorganización de Proyectos"
 description: "Pequeño artículo sobre Diario Geek un proyecto que nace de la reorganización de los proyectos que tengo actualmente y cómo saldrá de Historiador Digital"
 date: 2025-05-11T13:41:26Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/mate-tweak-700x514.png"
 categories: ["Proyectos", "Tecnología"]
 author: "Joaquín García Cobo"
 tags: ["diario-geek", "reorganización", "proyectos", "tecnología", "blog"]

@@ -3,7 +3,7 @@ title: "02. Gestores de información"
 meta_title: ""
 description: "Capítulo dedicado a los gestores de información. Diversas herramientas que los historiadores usan para realizar investigaciones históricas."
 date: 2024-09-12T09:11:00Z
-image: "/images/Travesias_Historicas.jpg"
+image: "/images/podcast/travesias-historias-cover.svg"
 categories: ["Podcast"]
 author: "Joaquín García Cobo"
 tags: ["gestores", "información","podcast", "investigación", "herramientas"]

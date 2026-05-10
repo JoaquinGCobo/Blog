@@ -4,6 +4,7 @@ author: kino
 type: post
 date: 2024-04-21T13:59:00+00:00
 url: /trailer/
+image: "/images/podcast/travesias-historias-cover.svg"
 enclosure:
   - |
     https://api.mumbler.io/api/episode-audio-file/a7fc48d6a64c552caf1368d6f0e6e6eb95e47c882605a24e487b69bf992c3536.mp3

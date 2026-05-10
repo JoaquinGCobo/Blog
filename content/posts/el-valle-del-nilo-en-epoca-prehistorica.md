@@ -3,7 +3,7 @@ title: "El Valle del Nilo en época prehistórica"
 meta_title: "Historia Prehistórica del Valle del Nilo - Desde el Paleolítico hasta la Civilización Egipcia"
 description: "Explora la fascinante historia prehistórica del Valle del Nilo, desde los primeros asentamientos humanos hasta el surgimiento de la civilización egipcia antigua."
 date: 2023-02-17T13:34:34Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/image.jpeg"
 categories: ["Historia", "Arqueología"]
 author: "Joaquín García Cobo"
 tags: ["egipto", "prehistoria", "arqueología", "neolítico", "civilización"]

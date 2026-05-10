@@ -3,7 +3,7 @@ title: "Los adjetivos en Latín"
 meta_title: "Guía Completa de los Adjetivos en Latín - Clasificación, Declinaciones y Usos"
 description: "Descubre los adjetivos en latín: su clasificación, declinaciones y usos. Aprende a dominar esta parte esencial de la gramática latina. Adjetivos Latin explicados."
 date: 2024-09-03T13:20:31Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/recursos-para-aprender-adjetivos-en-latin.jpg"
 categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
 tags: ["adjetivos en latín", "gramática latina", "declinaciones", "concordancia latina", "aprender latín", "Curso de Latín"]

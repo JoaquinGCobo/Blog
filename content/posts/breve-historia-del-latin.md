@@ -3,7 +3,7 @@ title: "Breve historia del Latín"
 meta_title: "Historia del Latín: Desde sus Orígenes hasta la Actualidad"
 description: "Explora la fascinante historia del latín, desde sus orígenes en la península itálica hasta su influencia en las lenguas modernas y la cultura occidental."
 date: 2023-03-06
-image: "/images/image-placeholder.png"
+image: "/images/posts/latin-portada.webp"
 categories: ["Latín", "Historia"]
 author: "Joaquín García Cobo"
 tags: ["latín", "historia", "lenguas romances", "imperio romano", "Curso de Latín"]
@@ -14,7 +14,7 @@ toc: true
 
 El latín es un idioma que ha desempeñado un papel fundamental en la historia de la humanidad. Durante más de mil años, fue la lengua franca del mundo occidental, utilizada en la literatura, la política, la religión y la ciencia. A pesar de que el latín se considera una lengua muerta en la actualidad, su legado perdura en la cultura y la educación moderna. En este artículo, exploraremos la historia del idioma latín, desde sus orígenes hasta su influencia actual.
 
-![Misal escrito en latín](/images/image-placeholder.png)
+![Misal escrito en latín](/images/posts/roman-missal-7738636_1280-360x570.jpeg)
 
 ## Orígenes del latín
 
@@ -31,7 +31,7 @@ A medida que tiempo avanza, Roma se expande por todo el mar Mediterráneo y con 
 - **El latín vulgar**, que se hablaba en la calle y se utilizaba en la literatura popular
 - **El latín literario**, que se utilizaba en la poesía y la prosa culta
 
-![Inscripción en lápida en latín](/images/image-placeholder.png)
+![Inscripción en lápida en latín](/images/posts/inscripcion-latin.webp)
 
 ## Declive del latín
 

@@ -1,9 +1,10 @@
 ---
 title: "La nueva teoría del meteorito y demás tonterías"
+meta_title: "La nueva teoría del meteorito: crítica histórica y arqueológica"
 description: "Un artículo de opinión sobre teorías históricas especulativas y su choque con la evidencia arqueológica y científica."
 author: "Joaquín García Cobo"
 date: 2021-03-15T09:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/meteorito.jpg"
 categories: ["Opinión", "Historia"]
 tags: ["teorías históricas", "arqueología", "egipto", "meteorito", "divulgación histórica"]
 draft: false

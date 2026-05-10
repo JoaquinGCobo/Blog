@@ -1,9 +1,10 @@
 ---
 title: "Qué hacer para que no me copien los contenidos de mi página web"
+meta_title: "Cómo proteger los contenidos de tu página web: copyright, licencias y registro"
 description: "Guía básica sobre licencias, copyright y medidas prácticas para proteger los contenidos de una página web."
 author: "Joaquín García Cobo"
 date: 2018-08-01T09:00:00Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/copyright-700x467.webp"
 categories: ["Web", "Legal"]
 tags: ["copyright", "creative commons", "contenidos web", "propiedad intelectual", "licencias"]
 draft: false

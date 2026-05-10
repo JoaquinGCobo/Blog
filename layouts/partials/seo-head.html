@@ -1,5 +1,6 @@
 {{ $pageTitle := partial "localized-title.html" . }}
-{{ $title := cond .IsHome site.Title (printf "%s | %s" $pageTitle site.Title) }}
+{{ $metaTitle := index .Params "meta_title" }}
+{{ $title := cond .IsHome site.Title (or $metaTitle (printf "%s | %s" $pageTitle site.Title)) }}
 {{ $description := .Description | default .Summary | plainify | default site.Params.description }}
 {{ $author := .Params.author | default site.Params.author }}
 {{ $base := getenv "HUGO_BASEURL" | default site.BaseURL }}

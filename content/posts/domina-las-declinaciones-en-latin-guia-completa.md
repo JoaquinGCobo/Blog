@@ -3,7 +3,7 @@ title: "Domina las declinaciones en Latín: Guía completa"
 meta_title: "Guía Completa de Declinaciones en Latín - Aprende Todos los Casos y Terminaciones"
 description: "Descubre cómo dominar las declinaciones en Latín con nuestra guía completa. Aprende los casos, terminaciones y usos de forma sencilla y práctica. ¡Mejora tu latín ahora!"
 date: 2024-09-15T13:45:49Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/declinaciones-en-latin.jpg"
 categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
 tags: ["declinaciones en latín", "gramática latina", "casos latinos", "aprender latín", "sustantivos latinos", "Curso de Latín"]

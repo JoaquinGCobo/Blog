@@ -3,7 +3,7 @@ title: "01. Manetón"
 meta_title: ""
 description: "Descubre los secretos del pasado en Travesías Históricas. Sumérgete en la historia del sacerdote Manetón. Un viaje al pasado ptolemaico que nos mostrará a un gran personaje."
 date: 2024-09-05
-image: "/images/Travesias_Historicas.jpg"
+image: "/images/podcast/travesias-historias-cover.svg"
 categories: ["Podcast"]
 author: "Joaquín García Cobo"
 tags: ["historia", "egipto","podcast", "ptolemaico"]

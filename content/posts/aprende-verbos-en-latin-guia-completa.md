@@ -3,7 +3,7 @@ title: "Aprende verbos en Latín: Guía completa"
 meta_title: "Aprende verbos en Latín: Guía completa para dominar conjugaciones"
 description: "Descubre cómo dominar los verbos en Latín con nuestra guía completa. Aprende conjugaciones, tiempos y usos para mejorar tu comprensión del idioma clásico."
 date: 2024-08-29T07:13:31Z
-image: "/images/image-placeholder.png"
+image: "/images/posts/contexto-de-uso-de-verbos-latinos.webp"
 categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
 tags: ["verbos en latín", "conjugación latina", "gramática latina", "aprender latín", "infinitivo en latín", "vocabulario en latín", "Curso de Latín"]
@@ -191,7 +191,7 @@ Al aprender a **comprender el latín a través del contexto**, mejoras tu compre
 
 Domina el **contexto en el uso de verbos latinos** y la **comprensión del latín a través del contexto** para ser más preciso y fluido. ¡Aplica estos principios en tus estudios y practica para mejorar tus habilidades en latín!
 
-![Contexto de uso de verbos latinos](/images/image-placeholder.png)
+![Contexto de uso de verbos latinos](/images/posts/contexto-de-uso-de-verbos-latinos.webp)
 
 ## Estrategias para memorizar verbos
 
@@ -247,7 +247,7 @@ Aprender **verbos latinos** nos da una comprensión más profunda de nuestro len
 
 Estas son algunas de las **aplicaciones prácticas del latín** y los **beneficios de aprender verbos latinos**. **Dominar el latín** nos da una comprensión más profunda de la cultura y la historia. Es una **herramienta invaluable** para explorar la antigüedad.
 
-![Aplicaciones prácticas del latín](/images/image-placeholder.png)
+![Aplicaciones prácticas del latín](/images/posts/latin-portada.webp)
 
 > "El estudio del latín no solo es un ejercicio intelectual, sino también una ventana a un mundo de conocimiento y sabiduría que ha influido profundamente en nuestra civilización."
 

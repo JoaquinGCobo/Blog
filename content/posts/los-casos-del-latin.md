@@ -1,9 +1,10 @@
 ---
 title: "Los casos del Latín"
+meta_title: "Los casos del Latín: guía básica para entender nominativo, genitivo y más"
 description: "Aprende cuáles son los casos del latín, qué función cumple cada uno y cómo se usan para construir oraciones con precisión."
 author: "Joaquín García Cobo"
 date: 2023-03-15T22:23:55+00:00
-image: "/images/image-placeholder.png"
+image: "/images/posts/books-2606859_1280.jpeg"
 categories: ["Latín", "Educación"]
 tags: ["casos del latín", "gramática latina", "declinaciones", "nominativo", "acusativo", "Curso de Latín"]
 draft: false

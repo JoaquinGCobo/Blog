@@ -3,7 +3,7 @@ title: "La Malinche: Un Personaje Histórico Olvidado en la Conquista de México
 meta_title: "La Malinche - Doña Marina en la Conquista de México"
 description: "Descubre la historia de La Malinche, conocida como Doña Marina, un personaje clave pero olvidado en la conquista española de México y su papel como intérprete de Hernán Cortés."
 date: 2024-09-27
-image: "/images/Travesias_Historicas.jpg"
+image: "/images/podcast/travesias-historias-cover.svg"
 categories: ["Historia", "Podcast", "México Prehispánico"]
 author: "Joaquín García Cobo"
 tags: ["malinche", "conquista", "méxico", "hernán cortés", "historia"]

@@ -1,5 +1,6 @@
 ---
 title: "La caída del Imperio romano"
+meta_title: "La caída del Imperio romano: causas políticas, militares y económicas"
 date: 2024-01-18T09:00:00+01:00
 draft: false
 description: "Un recorrido por las tensiones políticas, militares y económicas que erosionaron el occidente romano."
