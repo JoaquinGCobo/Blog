@@ -8,6 +8,7 @@ categories: ["Civilizaciones", "Antiguo Egipto"]
 author: "Joaquín García Cobo"
 tags: ["antiguo egipto", "faraones", "nilo", "religión egipcia", "civilización egipcia"]
 draft: false
+toc: true
 ---
 
 El Antiguo Egipto es una civilización que ha dejado una huella profunda en la historia. Su **historia** está llena de maravillas y misterios. Desde las pirámides hasta las momias, cada detalle muestra su ingenio y creencias.
