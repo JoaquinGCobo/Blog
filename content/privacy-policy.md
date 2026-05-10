@@ -7,6 +7,8 @@ image: "/images/image-placeholder.png"
 categories: ["Legal"]
 author: "Joaquín García Cobo"
 tags: ["aviso legal", "privacidad", "cookies", "protección de datos", "legal"]
+robots: "noindex, nofollow, noarchive"
+private: true
 draft: false
 ---
 # Aviso Legal, de Privacidad y Cookies
