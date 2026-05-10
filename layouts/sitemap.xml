@@ -1,5 +1,5 @@
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-{{- $pages := where site.AllPages "Kind" "in" (slice "home" "page" "section" "taxonomy" "term") }}
+{{- $pages := where site.Pages "Kind" "in" (slice "home" "page" "section" "taxonomy" "term") }}
 {{- $pages = where $pages "Params.private" "ne" true }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {{- range sort $pages "Permalink" }}

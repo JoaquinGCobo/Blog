@@ -13,7 +13,7 @@ enableRobotsTXT = true
   pagerSize = 10
 
 [outputs]
-  home = ["HTML", "RSS", "SITEMAP", "ROBOTS"]
+  home = ["HTML", "RSS"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   term = ["HTML", "RSS"]
@@ -24,6 +24,8 @@ enableRobotsTXT = true
   series = "series"
 
 [markup]
+  [markup.goldmark.renderer]
+    unsafe = true
   [markup.highlight]
     style = "monokailight"
     lineNos = false
