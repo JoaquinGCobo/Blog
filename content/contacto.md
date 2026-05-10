@@ -26,18 +26,4 @@ draft: false
     <p class="contact-value"><a href="https://mastodon.social/@JoaquinGC" rel="me noopener noreferrer" target="_blank">@JoaquinGC</a></p>
     <p class="contact-note">Conversación y publicaciones del proyecto.</p>
   </article>
-
-  <article class="contact-card">
-    <p class="contact-label">X</p>
-    <p class="contact-value"><a href="https://x.com/historiapersp" rel="noopener noreferrer" target="_blank">@historiapersp</a></p>
-    <p class="contact-note">Novedades, difusión y enlaces a contenido nuevo.</p>
-  </article>
-
-  <article class="contact-card">
-    <p class="contact-label">GitHub</p>
-    <p class="contact-value"><a href="https://github.com/historiaperspectiva" rel="noopener noreferrer" target="_blank">historiaperspectiva</a></p>
-    <p class="contact-note">Código, estructura del sitio y recursos técnicos del proyecto.</p>
-  </article>
 </section>
-
-<p class="contact-footer-note">Esta página está excluida del sitemap y marcada para no indexación para reducir rastreo automatizado.</p>
