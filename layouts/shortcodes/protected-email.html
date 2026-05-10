@@ -1,0 +1,17 @@
+{{- $user := .Get "user" -}}
+{{- $domain := .Get "domain" -}}
+{{- $label := .Get "label" | default (printf "%s@%s" $user $domain) -}}
+{{- $id := printf "email-%s-%s" ($user | urlize) ($domain | urlize) -}}
+<span id="{{ $id }}" data-user="{{ $user }}" data-domain="{{ $domain }}" data-label="{{ $label }}"></span>
+<noscript>{{ $user }} [arroba] {{ $domain }}</noscript>
+<script>
+  (() => {
+    const target = document.getElementById({{ $id | jsonify | safeJS }});
+    if (!target) return;
+    const user = target.dataset.user;
+    const domain = target.dataset.domain;
+    const label = target.dataset.label;
+    const email = `${user}@${domain}`;
+    target.innerHTML = `<a href="mailto:${email}">${label}</a>`;
+  })();
+</script>

@@ -558,6 +558,58 @@ h4 {
   color: var(--accent);
 }
 
+.contact-intro p,
+.contact-footer-note {
+  max-width: 44rem;
+  color: var(--muted);
+}
+
+.contact-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 2rem 0 1.5rem;
+}
+
+.contact-card {
+  padding: 1.2rem 1.25rem;
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 1.2rem;
+  box-shadow: var(--shadow);
+}
+
+.contact-card--primary {
+  background:
+    linear-gradient(135deg, color-mix(in srgb, var(--accent-soft) 82%, transparent), transparent 60%),
+    color-mix(in srgb, var(--surface) 94%, transparent);
+}
+
+.contact-label {
+  margin: 0 0 0.35rem;
+  color: var(--accent);
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.contact-value {
+  margin: 0;
+  font-family: var(--title-font);
+  font-size: clamp(1.35rem, 2.2vw, 1.9rem);
+  line-height: 1.1;
+}
+
+.contact-value a {
+  text-decoration: none;
+}
+
+.contact-note {
+  margin: 0.7rem 0 0;
+  color: var(--muted);
+  font-size: 0.96rem;
+}
+
 .comments-section {
   margin-top: 2.5rem;
   padding: 1.35rem;
@@ -663,6 +715,10 @@ h4 {
 
 @media (min-width: 700px) {
   .article-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .contact-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
