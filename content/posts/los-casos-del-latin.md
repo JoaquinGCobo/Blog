@@ -1,23 +1,15 @@
 ---
-title: Los casos del Latín
-author: Joaquín García Cobo
-type: post
+title: "Los casos del Latín"
+description: "Aprende cuáles son los casos del latín, qué función cumple cada uno y cómo se usan para construir oraciones con precisión."
+author: "Joaquín García Cobo"
 date: 2023-03-15T22:23:55+00:00
-url: /los-casos-del-latin/
 image: "/images/image-placeholder.png"
-rank_math_robots:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-rank_math_internal_links_processed:
-  - 1
-  - 1
-categories:
-  - Curso básico de Latín
-  - General
-
+categories: ["Latín", "Educación"]
+tags: ["casos del latín", "gramática latina", "declinaciones", "nominativo", "acusativo", "Curso de Latín"]
+draft: false
+series: ["Curso de Latín"]
+toc: true
 ---
- 
-
 El latín es un idioma que ha desempeñado un papel fundamental en la historia de la humanidad, y su influencia se extiende hasta nuestros días. Una de las características más distintivas del latín es **su sistema de casos**, que se utiliza para indicar la función gramatical de las palabras en una oración.
 
 <!--more-->

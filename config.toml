@@ -33,10 +33,10 @@ enableRobotsTXT = true
     ordered = false
 
 [params]
-  author = "Equipo de Historia en Perspectiva"
+  author = "Historiador Digital"
   description = "Un blog de historia con contexto, análisis y lecturas de larga duración."
   mastodonInstance = "mastodon.social"
-  mastodonUser = "historia"
+  mastodonUser = "JoaquinGC"
   twitterHandle = "@historiapersp"
   themeName = "historica"
   defaultOgImage = "/images/og-default.svg"
@@ -45,7 +45,7 @@ enableRobotsTXT = true
   podcastCover = "/images/podcast/travesias-historias-cover.svg"
 
   [params.social]
-    mastodon = "https://mastodon.social/@historia"
+    mastodon = "https://mastodon.social/@JoaquinGC"
     x = "https://x.com/historiapersp"
     github = "https://github.com/historiaperspectiva"
     rss = "/index.xml"

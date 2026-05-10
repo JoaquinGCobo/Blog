@@ -4,7 +4,7 @@ date: 2024-01-18T09:00:00+01:00
 draft: false
 description: "Un recorrido por las tensiones políticas, militares y económicas que erosionaron el occidente romano."
 categories: ["Roma"]
-tags: ["Antigüedad tardía", "Imperio romano", "Política", "Militar", "Europa", "Curso de Latín"]
+tags: ["Antigüedad tardía", "Imperio romano", "Política", "Militar", "Europa"]
 series: ["Grandes transiciones"]
 toc: true
 mastodon_id: "123456789"

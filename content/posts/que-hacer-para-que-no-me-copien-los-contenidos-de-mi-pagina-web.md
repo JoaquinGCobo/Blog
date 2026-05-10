@@ -1,19 +1,12 @@
 ---
-title: Qué hacer para que no me copien los contenidos de mi pagina web
-author: Joaquín García Cobo
-type: post
-date: 2018-08-01
-excerpt: Pequeño artículo sobre qué hacer para evitar que te plagien o copien contenidos de una web o de un contenido digital.
-url: /que-hacer-para-que-no-me-copien-los-contenidos-de-mi-pagina-web/
-rank_math_robots:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-rank_math_internal_links_processed:
-  - 1
-  - 1
-categories:
-  - General
-
+title: "Qué hacer para que no me copien los contenidos de mi página web"
+description: "Guía básica sobre licencias, copyright y medidas prácticas para proteger los contenidos de una página web."
+author: "Joaquín García Cobo"
+date: 2018-08-01T09:00:00Z
+image: "/images/image-placeholder.png"
+categories: ["Web", "Legal"]
+tags: ["copyright", "creative commons", "contenidos web", "propiedad intelectual", "licencias"]
+draft: false
 ---
  
 

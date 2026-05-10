@@ -4,10 +4,12 @@ meta_title: "Guía Completa de los Adjetivos en Latín - Clasificación, Declina
 description: "Descubre los adjetivos en latín: su clasificación, declinaciones y usos. Aprende a dominar esta parte esencial de la gramática latina. Adjetivos Latin explicados."
 date: 2024-09-03T13:20:31Z
 image: "/images/image-placeholder.png"
-categories: ["Educación", "Idiomas"]
+categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
-tags: ["latin", "adjetivos", "gramatica-latina", "declinaciones", "concordancia", "educacion-clasica"]
+tags: ["adjetivos en latín", "gramática latina", "declinaciones", "concordancia latina", "aprender latín", "Curso de Latín"]
 draft: false
+series: ["Curso de Latín"]
+toc: true
 ---
 
 Los **adjetivos en latín** son muy importantes para la estructura y expresividad del idioma. Ayudan a modificar sustantivos y pronombres, mejorando el significado y la precisión. Son clave para comunicarse y traducir el latín.

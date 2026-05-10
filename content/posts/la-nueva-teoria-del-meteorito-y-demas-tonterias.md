@@ -1,19 +1,12 @@
 ---
-title: La nueva teoría del meteorito y demás tonterías
-author: Joaquín García Cobo
-type: post
-date: 2021-03-15
-excerpt: Pequeño artículo de opinión sobre las teorías históricas actuales, en especial sobre la nueva teoría del meteorito...
-url: /la-nueva-teoria-del-meteorito-y-demas-tonterias/
-rank_math_robots:
-  - 'a:1:{i:0;s:0:"";}'
-  - 'a:1:{i:0;s:0:"";}'
-rank_math_internal_links_processed:
-  - 1
-  - 1
-categories:
-  - General
-
+title: "La nueva teoría del meteorito y demás tonterías"
+description: "Un artículo de opinión sobre teorías históricas especulativas y su choque con la evidencia arqueológica y científica."
+author: "Joaquín García Cobo"
+date: 2021-03-15T09:00:00Z
+image: "/images/image-placeholder.png"
+categories: ["Opinión", "Historia"]
+tags: ["teorías históricas", "arqueología", "egipto", "meteorito", "divulgación histórica"]
+draft: false
 ---
 Actualmente existen muchas personas que en base a conocimientos medio completos intentan crear o descubrir otra vez la rueda de la Historia.  
 Una de las más llamativas, posiblemente junto al kamikaze movimiento de las antivacunas es la «nueva teoría del meteorito», una teoría que menciona al famoso meteorito que provocó la extinción de los dinosaurios, pero ahora vuelve extinguiendo culturas y civilizaciones.

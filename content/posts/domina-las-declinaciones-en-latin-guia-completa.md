@@ -4,10 +4,12 @@ meta_title: "Guía Completa de Declinaciones en Latín - Aprende Todos los Casos
 description: "Descubre cómo dominar las declinaciones en Latín con nuestra guía completa. Aprende los casos, terminaciones y usos de forma sencilla y práctica. ¡Mejora tu latín ahora!"
 date: 2024-09-15T13:45:49Z
 image: "/images/image-placeholder.png"
-categories: ["Educación", "Idiomas"]
+categories: ["Latín", "Educación"]
 author: "Joaquín García Cobo"
-tags: ["latin", "declinaciones", "gramatica-latina", "aprender-latin", "casos-latinos", "educacion-clasica"]
+tags: ["declinaciones en latín", "gramática latina", "casos latinos", "aprender latín", "sustantivos latinos", "Curso de Latín"]
 draft: false
+series: ["Curso de Latín"]
+toc: true
 ---
 
 **En esta guía completa**, aprenderás sobre las declinaciones en Latín. Verás qué son, su importancia, cómo se clasifican y cómo dominarlas. Es perfecta para estudiantes de Latín y aficionados a la lengua clásica.
