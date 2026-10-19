@@ -1,6 +1,7 @@
 ---
 title: Tráiler
 author: kino
+private:true
 type: post
 date: 2024-04-21T13:59:00+00:00
 url: /trailer/
