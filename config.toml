@@ -39,7 +39,7 @@ enableRobotsTXT = true
   description = "Un blog de historia con contexto, análisis y lecturas de larga duración."
   mastodonInstance = "mastodon.social"
   mastodonUser = "JoaquinGC"
-  twitterHandle = "@historiapersp"
+  twitterHandle = "#"
   themeName = "historica"
   defaultOgImage = "/images/og-default.svg"
   podcastTitle = "Podcast de Historia en Perspectiva"
@@ -48,6 +48,6 @@ enableRobotsTXT = true
 
   [params.social]
     mastodon = "https://mastodon.social/@JoaquinGC"
-    x = "https://x.com/historiapersp"
-    github = "https://github.com/historiaperspectiva"
+    x = "#"
+    github = "#"
     rss = "/index.xml"
