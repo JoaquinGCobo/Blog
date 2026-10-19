@@ -2,6 +2,7 @@
 title: "Contacto"
 meta_title: "Contacto | Historiador Digital"
 description: "Canales de contacto y redes sociales de Historiador Digital."
+private: true
 date: 2025-05-10T21:45:00Z
 author: "Joaquín García Cobo"
 image: "/images/og-default.svg"
