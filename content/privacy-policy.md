@@ -2,7 +2,6 @@
 title: "Aviso Legal, Política de privacidad y Política de cookies"
 meta_title: "Aviso legal, política de privacidad y cookies"
 description: "Consulta el aviso legal, la política de privacidad y la política de cookies de Historiador Digital."
-private: true
 date: 2025-05-04T09:00:00Z
 image: "/images/image-placeholder.png"
 categories: ["Legal"]
