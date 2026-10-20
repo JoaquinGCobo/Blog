@@ -120,7 +120,7 @@ Algunos de los proveedores anteriores están establecidos en Estados Unidos. Las
 
 Cualquier persona puede ejercer en todo momento los derechos de **acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad** de sus datos, así como **retirar el consentimiento** prestado, sin que ello afecte a la licitud del tratamiento anterior.
 
-Para ello puede escribir a [joaquin@historiador.es](mailto:joaquin@historiador.es) Solo si hubiera dudas razonables sobre la identidad del solicitante se le pedirá información adicional para confirmarla.
+Para ello puede escribir a [joaquin@historiador.es](mailto:joaquin@historiador.es). Solo si hubiera dudas razonables sobre la identidad del solicitante se le pedirá información adicional para confirmarla.
 
 Si considera que sus datos no se han tratado correctamente, puede presentar una reclamación ante la **Agencia Española de Protección de Datos** ([www.aepd.es](https://www.aepd.es)).
 
