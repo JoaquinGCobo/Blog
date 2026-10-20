@@ -3,7 +3,7 @@ title: "Aviso Legal, Política de privacidad y Política de cookies"
 meta_title: "Aviso legal, política de privacidad y cookies"
 description: "Consulta el aviso legal, la política de privacidad y la política de cookies de Historiador Digital."
 date: 2025-05-04T09:00:00Z
-lastmod: 2026-10-20T09:00:00Z
+lastmod: 2026-10-20T22:00:00Z
 image: "/images/og-default.svg"
 categories: ["Legal"]
 author: "Joaquín García Cobo"
@@ -20,11 +20,9 @@ Al navegar y utilizar la presente página web, el usuario acepta las siguientes 
 
 ## Información principal
 
-En cumplimiento del art. 10 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de que la presente página web pertenece a:
+La presente página web es un blog personal y divulgativo, sin actividad económica, que pertenece a:
 
 - **Titular**: Joaquín García Cobo
-- **NIF**: 72066600X
-- **Dirección**: C/ Los Mozos Nº 24, Guarnizo (El Astillero), 39611 - Cantabria
 - **Correo de contacto**: [joaquin@historiador.es](mailto:joaquin@historiador.es)
 
 (En adelante, **Historiador.digital**)
@@ -60,12 +58,6 @@ El usuario deberá disponer de herramientas adecuadas para la detección y desin
 ## Enlaces externos
 
 La web contiene enlaces a sitios de terceros. Historiador.digital no controla dichos sitios ni se responsabiliza de sus contenidos ni del tratamiento de datos que realicen; se recomienda consultar sus propias políticas de privacidad.
-
----
-
-## Publicidad
-
-En la página web podrá alojarse contenido publicitario o patrocinado, que se identificará claramente como tal. Los anunciantes o patrocinadores son los únicos responsables de que el material remitido para su inclusión en la web cumpla con las leyes aplicables.
 
 ---
 
@@ -128,7 +120,7 @@ Algunos de los proveedores anteriores están establecidos en Estados Unidos. Las
 
 Cualquier persona puede ejercer en todo momento los derechos de **acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad** de sus datos, así como **retirar el consentimiento** prestado, sin que ello afecte a la licitud del tratamiento anterior.
 
-Para ello puede escribir a [joaquin@historiador.es](mailto:joaquin@historiador.es) o a la dirección postal que figura en el Aviso Legal. Solo si hubiera dudas razonables sobre la identidad del solicitante se le pedirá información adicional para confirmarla.
+Para ello puede escribir a [joaquin@historiador.es](mailto:joaquin@historiador.es) Solo si hubiera dudas razonables sobre la identidad del solicitante se le pedirá información adicional para confirmarla.
 
 Si considera que sus datos no se han tratado correctamente, puede presentar una reclamación ante la **Agencia Española de Protección de Datos** ([www.aepd.es](https://www.aepd.es)).
 
