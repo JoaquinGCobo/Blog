@@ -112,7 +112,7 @@ Los comentarios de Mastodon son publicaciones que sus autores han hecho pública
 
 No se cederán datos a terceros salvo obligación legal. Para el funcionamiento de la web intervienen los siguientes proveedores, que pueden recibir la dirección IP y los datos técnicos de conexión del usuario:
 
-- **Proveedor de alojamiento web** (Netlify, Inc. / Vercel Inc., EE. UU.): sirve las páginas y genera los registros técnicos. Actúa como encargado del tratamiento.
+- **Proveedor de alojamiento web** (Vercel Inc., EE. UU.): sirve las páginas y genera los registros técnicos. Actúa como encargado del tratamiento.
 - **Proveedor del servicio de correo electrónico** de la dirección joaquin@historiador.es, cuando el usuario escribe un correo.
 - **cdnjs (Cloudflare, Inc., EE. UU.)**: sirve la biblioteca de iconos Font Awesome.
 - **mastodon.social (Mastodon gGmbH, Alemania)**, solo en los artículos con comentarios: el navegador del usuario solicita a esa instancia las respuestas públicas y las imágenes de avatar, que pueden servirse desde las instancias de Mastodon de cada autor.
