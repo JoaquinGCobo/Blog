@@ -3,7 +3,8 @@ title: "Aviso Legal, Política de privacidad y Política de cookies"
 meta_title: "Aviso legal, política de privacidad y cookies"
 description: "Consulta el aviso legal, la política de privacidad y la política de cookies de Historiador Digital."
 date: 2025-05-04T09:00:00Z
-image: "/images/image-placeholder.png"
+lastmod: 2026-10-20T09:00:00Z
+image: "/images/og-default.svg"
 categories: ["Legal"]
 author: "Joaquín García Cobo"
 tags: ["aviso legal", "privacidad", "cookies", "protección de datos", "legal"]
@@ -11,20 +12,20 @@ robots: "noindex, nofollow, noarchive"
 private: true
 draft: false
 ---
-# Aviso Legal, de Privacidad y Cookies
+# Aviso Legal
 
-Al navegar y utilizar la presente página web, el usuario acepta expresamente cumplir las siguientes condiciones de uso:
+Al navegar y utilizar la presente página web, el usuario acepta las siguientes condiciones de uso.
 
 ---
 
 ## Información principal
 
-En virtud de lo dispuesto en art. 10 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, se informa que la presente página web pertenece a:  
+En cumplimiento del art. 10 de la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), se informa de que la presente página web pertenece a:
 
-- **Titular**: Joaquín García Cobo  
-- **NIF**: 72066600X  
-- **Dirección**: C/ Los Mozos Nº 24, Guarnizo (El Astillero), 39611 - Cantabria  
-- **Correo de contacto**: [joaquin@historiador.es](mailto:joaquin@historiador.es)  
+- **Titular**: Joaquín García Cobo
+- **NIF**: 72066600X
+- **Dirección**: C/ Los Mozos Nº 24, Guarnizo (El Astillero), 39611 - Cantabria
+- **Correo de contacto**: [joaquin@historiador.es](mailto:joaquin@historiador.es)
 
 (En adelante, **Historiador.digital**)
 
@@ -32,131 +33,142 @@ En virtud de lo dispuesto en art. 10 de la Ley 34/2002, de 11 de julio, de servi
 
 ## Objeto de la página web
 
-Mediante la presente Web, titularidad de **Historiador.digital**, se exponen materiales relativos al ajedrez y a su didáctica y aprendizaje. Historiador.digital se reserva el derecho de modificar en cualquier momento el contenido de la página web y el presente Aviso Legal.
+Mediante la presente web, titularidad de **Historiador.digital**, se publican artículos divulgativos sobre historia y lengua latina, así como las notas de episodio del podcast asociado. Historiador.digital se reserva el derecho de modificar en cualquier momento el contenido de la página web y el presente Aviso Legal.
 
 ---
 
-## Acceso a la página web y datos de los usuarios
+## Acceso a la página web y propiedad intelectual
 
-El prestador del servicio permite libremente el acceso general a la web a todos los usuarios de Internet.  
+El acceso a la web es libre y gratuito para todos los usuarios de Internet y no requiere registro.
 
-Los usuarios podrán usar la web libremente, no obstante, queda absolutamente prohibido cualquier uso comercial o lucrativo de los materiales sin consentimiento expreso de Historiador.digital o de quién tenga los derechos legales de tales materiales.  
+Los textos, imágenes propias y demás materiales de la web están protegidos por la normativa de propiedad intelectual. Queda prohibido cualquier uso comercial o lucrativo de los materiales sin consentimiento expreso de Historiador.digital o de quien ostente los derechos sobre ellos. Las imágenes y músicas de terceros se utilizan conforme a sus licencias y se indica su autoría junto a cada una.
 
-Pedimos a los usuarios de **www.Historiador.digital** que cualquier abuso o vulneración de las Condiciones de Uso, nos sea comunicado a través de los canales establecidos en el sitio web o mediante la remisión de correo electrónico a [joaquin@historiador.es](mailto:joaquin@historiador.es).  
+Pedimos a los usuarios que cualquier abuso o vulneración de estas condiciones de uso nos sea comunicado por correo electrónico a [joaquin@historiador.es](mailto:joaquin@historiador.es).
 
-Todo dato personal será tratado conforme a nuestra **política de privacidad**, pudiendo consultarse en cualquier momento y modificando o eliminando de acuerdo a las vigentes leyes.
-
----
-
-## Contacto e Información
-
-Si el usuario quisiera ponerse en contacto con el titular de la página puede hacerlo mediante el formulario habilitado en la página a tal fin o remitiendo un correo electrónico a: [joaquin@historiador.es](mailto:joaquin@historiador.es).  
-
-En ese caso, la información de carácter personal recibida será tratada de acorde con nuestra política de privacidad, siendo el usuario el único responsable de las manifestaciones falsas o inexactas que realice.
+Todo dato personal será tratado conforme a la **Política de privacidad** que figura más abajo.
 
 ---
 
 ## Responsabilidad técnica
 
-Historiador.digital no se responsabiliza de los daños o perjuicios de cualquier tipo producidos en el usuario que obedezcan a errores o desconexiones a las redes de telecomunicaciones que produzcan la interrupción del servicio de la página Web durante la prestación del servicio.  
+Historiador.digital no se responsabiliza de los daños o perjuicios de cualquier tipo producidos en el usuario que obedezcan a errores o desconexiones de las redes de telecomunicaciones que produzcan la interrupción del servicio de la página web.
 
-El acceso al portal Web no implica la necesidad por parte de Historiador.digital de controlar la ausencia de virus, gusanos o cualquier otro elemento informático dañino.  
+El usuario deberá disponer de herramientas adecuadas para la detección y desinfección de programas informáticos dañinos. Historiador.digital no se responsabiliza de los daños producidos en los equipos informáticos, documentos y ficheros de los usuarios o de terceros durante la navegación, salvo en los casos en que la ley disponga otra cosa.
 
-El usuario deberá disponer de herramientas adecuadas para la detección y desinfección de programas informáticos dañinos.  
+---
 
-Historiador.digital no se responsabiliza de los daños producidos en los equipos informáticos, documentos y ficheros de los usuarios o de terceros durante la prestación del servicio.
+## Enlaces externos
+
+La web contiene enlaces a sitios de terceros. Historiador.digital no controla dichos sitios ni se responsabiliza de sus contenidos ni del tratamiento de datos que realicen; se recomienda consultar sus propias políticas de privacidad.
 
 ---
 
 ## Publicidad
 
-En la página Web podrá alojarse contenido publicitario o patrocinado. Historiador.digital no será responsable de cualquier error o irregularidad de los referidos mensajes publicitarios, siendo los anunciantes o patrocinadores los únicos responsables de asegurarse que el material remitido para su inclusión en la Web cumple con las leyes que en cada caso puedan ser de aplicación.
+En la página web podrá alojarse contenido publicitario o patrocinado, que se identificará claramente como tal. Los anunciantes o patrocinadores son los únicos responsables de que el material remitido para su inclusión en la web cumpla con las leyes aplicables.
 
 ---
 
 ## Legislación aplicable
 
-La presente información legal, así como la política de privacidad y de cookies y las condiciones generales, se rige por la legislación española.  
+La presente información legal, así como la política de privacidad y la política de cookies, se rige por la legislación española.
 
-Historiador.digital y los usuarios de la página acuerdan someter cualquier controversia que pudiera suscitarse de la prestación del servicio o de cualquier contratación a los **Juzgados y Tribunales de Cantabria**, salvo que la Ley establezca otra cosa a los efectos de contratantes consumidores.
+Para cualquier controversia, las partes se someten a los Juzgados y Tribunales de Cantabria, salvo que la ley establezca otro fuero, en particular cuando el usuario tenga la condición de consumidor, en cuyo caso será competente el juzgado de su domicilio.
 
 ---
 
 # Política de privacidad
 
-A fin de dar cumplimiento al Reglamento Europeo de Protección de Datos (**Reglamento UE 2016/679 del Parlamento Europeo y del Consejo**), se expone de forma clara y directa cómo se gestionan los datos de carácter personal pertenecientes a los usuarios y colaboradores de esta página y otros datos de interés.
+Conforme al Reglamento (UE) 2016/679, General de Protección de Datos (**RGPD**), y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (**LOPDGDD**), se informa de forma clara de cómo se tratan los datos personales de los usuarios de esta web.
 
 ---
 
-### 1. ¿Quién es el Responsable del tratamiento de sus datos?
+### 1. Responsable del tratamiento
 
-Los datos se gestionan por **Joaquín García Cobo**, con NIF 72066600X y con domicilio en 39611-Cantabria, C/ Los Mozos Nº 24, Guarnizo (El Astillero).  
-
-Puede contactar remitiendo correo electrónico a [joaquin@historiador.es](mailto:joaquin@historiador.es).
-
----
-
-### 2. ¿Por qué y para qué tratamos sus datos personales?
-
-Tratamos sus datos personales para las siguientes finalidades:
-
-- Poder dar respuesta a las consultas de los usuarios.  
-- Para tramitar la solicitud de información y poder contactar con ellos a tal fin.  
-- Para, en caso de aceptación expresa, poder remitir comunicaciones a través de boletines o **Newsletters**.  
+- **Responsable**: Joaquín García Cobo
+- **NIF**: 72066600X
+- **Domicilio**: C/ Los Mozos Nº 24, Guarnizo (El Astillero), 39611 - Cantabria
+- **Correo electrónico**: [joaquin@historiador.es](mailto:joaquin@historiador.es)
 
 ---
 
-### 3. ¿Cómo podemos obtener sus datos?
+### 2. Qué datos tratamos, con qué finalidad y con qué base legal
 
-Obtenemos información de carácter personal de un modo directo a través de consultas realizadas por los usuarios a través de los formularios habilitados en la web o mediante remisión de correos electrónicos.  
+Esta web no tiene formularios, registro de usuarios, newsletter ni herramientas de analítica o publicidad. Los únicos tratamientos de datos personales son los siguientes:
 
-Asimismo también podemos obtener dicha información al suscribirse a la newsletter o boletín informativo.
+| Tratamiento | Datos | Finalidad | Base jurídica | Conservación |
+|---|---|---|---|---|
+| Correo electrónico enviado por el usuario | Nombre, dirección de correo y lo que el usuario incluya en el mensaje | Responder a consultas y propuestas de colaboración | Consentimiento del interesado al escribir (art. 6.1.a RGPD) y, en su caso, aplicación de medidas precontractuales (art. 6.1.b RGPD) | El tiempo necesario para atender la consulta y, después, durante los plazos de prescripción de las posibles responsabilidades |
+| Registros técnicos del servidor | Dirección IP, fecha y hora, página solicitada, navegador | Servir la web, garantizar su seguridad y prevenir abusos | Interés legítimo (art. 6.1.f RGPD) | Según la política del proveedor de alojamiento; en general, un periodo breve |
+| Comentarios de Mastodon mostrados bajo los artículos | Nombre público, usuario, avatar, fecha y texto de las respuestas públicas publicadas en Mastodon | Mostrar la conversación pública sobre cada artículo | Interés legítimo (art. 6.1.f RGPD) | Mientras la respuesta siga publicada en Mastodon: los comentarios se cargan en tiempo real y no se almacenan en esta web |
 
----
+No se toman decisiones automatizadas ni se elaboran perfiles con los datos de los usuarios.
 
-### 4. Destinatarios: ¿Quiénes recibirán y tratan sus datos?
-
-Solo el propietario, **Joaquín García Cobo**, recibirá y tratará sus datos de carácter personal.  
-
-No se cederán sus datos a ningún tercero sin su consentimiento expreso e inequívoco.  
-
-No obstante, se informa que la web **Historiador.digital** utiliza **Google Analytics**, que emplea cookies para ayudarnos a estudiar y analizar el uso que hacen los usuarios de la web (más información en la política de cookies).  
-
-Es una herramienta prestada por Google, Inc., empresa norteamericana de Delaware cuya oficina principal está en el 1600 Amphitheatre Parkway, Mountain View (California), CA 94043, Estados Unidos.  
-
-Google Inc. está adherido al acuerdo de Privacidad (**EU-US Privacy Shield**) siendo del todo seguro dicho tratamiento.
+Los comentarios de Mastodon son publicaciones que sus autores han hecho públicas en esa red. Si borras tu respuesta en Mastodon, deja de mostrarse aquí. También puedes pedir que no se muestre escribiendo a [joaquin@historiador.es](mailto:joaquin@historiador.es).
 
 ---
 
-### 5. ¿Cuáles son los derechos de los usuarios?
+### 3. Destinatarios y encargados del tratamiento
 
-Los interesados, de acuerdo con lo dispuesto en la normativa aplicable, podrán ejercitar los derechos de:
+No se cederán datos a terceros salvo obligación legal. Para el funcionamiento de la web intervienen los siguientes proveedores, que pueden recibir la dirección IP y los datos técnicos de conexión del usuario:
 
-- Acceso  
-- Rectificación  
-- Cancelación  
-- Oposición  
-- Limitación  
-- Portabilidad  
-
-Dirigiendo un escrito a **Joaquín García Cobo**, con NIF 72066600X y con domicilio en 39611-Cantabria, C/ Los Mozos Nº 24, Guarnizo (El Astillero) o bien remitiendo un correo electrónico a [joaquin@historiador.es](mailto:joaquin@historiador.es).  
-
-En ambos casos, será preciso adjuntar una fotocopia del Documento Nacional de Identidad o documentación análoga que acredite su identidad.  
-
-Finalmente, el usuario podrá presentar sus reclamaciones ante la **Agencia Española de Protección de Datos** (más info en [www.agpd.es](https://www.agpd.es)).
+- **Proveedor de alojamiento web** (Vercel Inc., EE. UU.): sirve las páginas y genera los registros técnicos. Actúa como encargado del tratamiento.
+- **Proveedor del servicio de correo electrónico** de la dirección joaquin@historiador.es, cuando el usuario escribe un correo.
+- **cdnjs (Cloudflare, Inc., EE. UU.)**: sirve la biblioteca de iconos Font Awesome.
+- **mastodon.social (Mastodon gGmbH, Alemania)**, solo en los artículos con comentarios: el navegador del usuario solicita a esa instancia las respuestas públicas y las imágenes de avatar, que pueden servirse desde las instancias de Mastodon de cada autor.
+- **RSS.com (EE. UU.)**, solo en las páginas del podcast y únicamente cuando el usuario pulsa reproducir: sirve el archivo de audio.
 
 ---
 
-### 6. Enlaces externos
+### 4. Transferencias internacionales
 
-Se advierte al usuario que la presente página web puede mostrar enlaces a diferentes portales ajenos al propietario de la web o del contenido de la página web.  
-
-En estos casos, la empresa no se responsabiliza del posible tratamiento de datos que puedan realizar en esas páginas webs.
+Algunos de los proveedores anteriores están establecidos en Estados Unidos. Las transferencias se amparan en el Marco de Privacidad de Datos UE-EE. UU. (*EU-U.S. Data Privacy Framework*), en el caso de las empresas adheridas, o en las cláusulas contractuales tipo aprobadas por la Comisión Europea (art. 46 RGPD).
 
 ---
 
-### 7. Envío de comunicaciones comerciales
+### 5. Derechos de los usuarios
 
-En caso de aceptación en el formulario oportuno, se remitirá al usuario un boletín de noticias o newsletter de la página web.  
+Cualquier persona puede ejercer en todo momento los derechos de **acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad** de sus datos, así como **retirar el consentimiento** prestado, sin que ello afecte a la licitud del tratamiento anterior.
 
-El usuario podrá oponerse en cualquier momento a la remisión de las comunicaciones comerciales mediante la remisión de un correo electrónico a [joaquin@historiador.es](mailto:joaquin@historiador.es) o bien, siguiendo las instrucciones que se indicarán en cada comunicación remitida al usuario.
+Para ello puede escribir a [joaquin@historiador.es](mailto:joaquin@historiador.es) o a la dirección postal indicada en el apartado 1. Solo si hubiera dudas razonables sobre la identidad del solicitante se le pedirá información adicional para confirmarla.
+
+Si considera que sus datos no se han tratado correctamente, puede presentar una reclamación ante la **Agencia Española de Protección de Datos** ([www.aepd.es](https://www.aepd.es)).
+
+---
+
+### 6. Seguridad
+
+La web se sirve exclusivamente mediante conexión cifrada (HTTPS) y no almacena datos personales en bases de datos propias.
+
+---
+
+# Política de cookies
+
+### 1. ¿Qué son las cookies?
+
+Las cookies y tecnologías similares (como el almacenamiento local del navegador, *localStorage*) son pequeños archivos o datos que una web guarda en el dispositivo del usuario. Su uso se regula en el art. 22.2 de la LSSI-CE.
+
+### 2. Cookies que utiliza esta web
+
+**Esta web no utiliza cookies propias ni de terceros con fines analíticos, publicitarios ni de seguimiento**, por lo que no muestra un aviso de consentimiento.
+
+Únicamente se emplea el siguiente almacenamiento técnico, exento de consentimiento por ser estrictamente necesario para prestar un servicio solicitado expresamente por el usuario:
+
+| Nombre | Tipo | Titular | Finalidad | Duración |
+|---|---|---|---|---|
+| `historica-theme` | localStorage | Propio | Recordar si el usuario ha elegido el modo claro u oscuro. Solo se guarda cuando el usuario pulsa el botón de cambio de tema y no contiene datos personales | Hasta que el usuario lo borre desde su navegador |
+
+Los proveedores indicados en el apartado 3 de la Política de privacidad (cdnjs, Mastodon, RSS.com) reciben la dirección IP del usuario al servir sus contenidos, pero esta web no les permite instalar cookies de seguimiento. Si en el futuro se incorporasen cookies que requieran consentimiento, se solicitará antes de instalarlas y se actualizará esta política.
+
+### 3. Cómo eliminar o bloquear las cookies
+
+El usuario puede borrar el almacenamiento local y bloquear las cookies desde la configuración de su navegador:
+
+- [Google Chrome](https://support.google.com/chrome/answer/95647)
+- [Mozilla Firefox](https://support.mozilla.org/es/kb/Borrar%20cookies)
+- [Safari](https://support.apple.com/es-es/guide/safari/sfri11471/mac)
+- [Microsoft Edge](https://support.microsoft.com/es-es/microsoft-edge/eliminar-las-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09)
+
+---
+
+*Última actualización: 20 de octubre de 2026.*

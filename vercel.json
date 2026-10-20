@@ -1,11 +1,54 @@
 {
   "buildCommand": "hugo --gc --minify",
   "outputDirectory": "public",
+  "trailingSlash": true,
   "build": {
     "env": {
       "HUGO_VERSION": "0.161.1",
       "HUGO_ENV": "production",
       "HUGO_ENABLEGITINFO": "true"
     }
-  }
+  },
+  "redirects": [
+    {
+      "source": "/home/",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/los-casos-del-latin/",
+      "destination": "/posts/los-casos-del-latin/",
+      "permanent": true
+    },
+    {
+      "source": "/breve-historia-del-latin/",
+      "destination": "/posts/breve-historia-del-latin/",
+      "permanent": true
+    },
+    {
+      "source": "/domina-las-declinaciones-en-latin-guia-completa/",
+      "destination": "/posts/domina-las-declinaciones-en-latin-guia-completa/",
+      "permanent": true
+    },
+    {
+      "source": "/el-valle-del-nilo-en-epoca-prehistorica/",
+      "destination": "/posts/el-valle-del-nilo-en-epoca-prehistorica/",
+      "permanent": true
+    },
+    {
+      "source": "/aprende-verbos-en-latin-guia-completa/",
+      "destination": "/posts/aprende-verbos-en-latin-guia-completa/",
+      "permanent": true
+    },
+    {
+      "source": "/diario-geek-una-reorganizacion/",
+      "destination": "/posts/diario-geek-una-reorganizacion/",
+      "permanent": true
+    },
+    {
+      "source": "/03-la-malinche/",
+      "destination": "/podcast/03-la-malinche/",
+      "permanent": true
+    }
+  ]
 }
